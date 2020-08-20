@@ -1,0 +1,3 @@
+16:51:27.267877 exit_signal_handler: 15
+16:51:27.267930 signalled to die
+16:51:27.267975 ========> IPv4 sws (port 40683 pid: 126164) exits with signal (15)

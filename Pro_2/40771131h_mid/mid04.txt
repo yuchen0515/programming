@@ -1,0 +1,25 @@
+The programming (II) is useful and important, and I learn many 
+principle of the hard devices, or file process, or maldive bmp 
+process from this course.
+
+Ph. Chi's teaching is clear and organized,
+and he is good at catching classmates eyes to concentrate in course.
+
+A comment is about homework policy,
+TA is deligent to deal with our homework score,
+(I know programming TA is hard and suffered(?))
+but TA should provide a homework policy to inform us
+how judge our hw? 
+TA only makes a comment as "(1)(3)(5)error" and lack of the detail about the hw policy(how to give credit?)
+
+e.g, if hw1 (5) has 20 (scores), and I get 12 (scores),
+he make a comment is "(5) error", and "8"(20-12) ......?
+If I get 0 (scores), and he makes a comment is "(5) error"
+it meant my program having a large mistakes, so I get nothing.
+but ......I get 12, how he give this scores?
+
+I hope the course provides more bonus.
+Maybe teacher inform(suggest) us to take part in a OJ?
+or a compepition? provide a bouns........opportunity.
+p.s. Leetcode, VJ, or ... "NOJ"!? it's a good thought.
+	bouns project?? bouns homework??

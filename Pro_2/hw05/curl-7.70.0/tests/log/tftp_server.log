@@ -1,0 +1,3 @@
+16:51:27.273347 exit_signal_handler: 15
+16:51:27.273396 signalled to die
+16:51:27.273448 ========> IPv4 tftpd (port: 38380 pid: 118783) exits with signal (15)

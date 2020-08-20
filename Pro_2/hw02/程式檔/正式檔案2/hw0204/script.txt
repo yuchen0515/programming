@@ -1,0 +1,18 @@
+INCLUDE( test.h )
+REQUIRE( test.c )
+
+EXPECT_EQ(-5, fibonacci(-5));
+EXPECT_EQ(-1, fibonacci(-1));
+EXPECT_EQ(0, fibonacci(0));
+EXPECT_EQ(1, fibonacci(1));
+EXPECT_EQ(1, fibonacci(2));
+EXPECT_EQ(2, fibonacci(3));
+EXPECT_EQ(55, fibonacci(10));
+
+EXPECT_EQ(1, factorial(-5));
+EXPECT_EQ(1, factorial(-1));
+EXPECT_EQ(1, factorial(0));
+EXPECT_EQ(1, factorial(1));
+EXPECT_EQ(2, factorial(2));
+EXPECT_EQ(6, factorial(3));
+EXPECT_EQ(40320, factorial(8));

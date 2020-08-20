@@ -1,0 +1,16 @@
+16:51:27.771180 ====> Client connect
+16:51:27.771592 FTPD: Getting commands from log/ftpserver.cmd
+16:51:27.772075 > "220-        _   _ ____  _     [CR][LF]220-    ___| | | |  _ \| |    [CR][LF]220-   / __| | | | |_) | |    [CR][LF]220-  | (__| |_| |  _ {| |___ [CR][LF]220    \___|\___/|_| \_\_____|[CR][LF]"
+16:51:27.772479 < "EHLO 3007"
+16:51:27.772526 > "250 ESMTP pingpong test server Hello 3007[CR][LF]"
+16:51:27.772763 < "MAIL FROM:<sender@example.com>"
+16:51:27.772786 MAIL_smtp got FROM:<sender@example.com>
+16:51:27.772823 > "250 Sender OK[CR][LF]"
+16:51:27.773093 < "RCPT TO:<invalid.one>"
+16:51:27.773115 RCPT_smtp got TO:<invalid.one>
+16:51:27.773143 > "501 Invalid address[CR][LF]"
+16:51:27.773516 < "QUIT"
+16:51:27.773560 > "221 curl ESMTP server signing off[CR][LF]"
+16:51:27.773723 MAIN sockfilt said DISC
+16:51:27.773761 ====> Client disconnected
+16:51:27.773808 Awaiting input

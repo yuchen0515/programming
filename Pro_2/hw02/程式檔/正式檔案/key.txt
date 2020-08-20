@@ -1,0 +1,26 @@
+A: Z
+B:   E
+C:  B
+D:R
+E: A
+F:S
+G:C
+H:D
+I:F
+J:G
+K:H
+L:I
+M:J
+N:K
+O:L
+P:M
+Q:N
+R:O
+S:P
+T:Q
+U:T
+V:U
+W:V
+X:W
+Y:X
+Z:Y

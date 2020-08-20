@@ -1,0 +1,5 @@
+INCLUDE = -I curl-7.70.0/include/
+LINK = -L curl-7.70.0/lib/.libs/
+
+all:
+	gcc ${INCLUDE} ${LINK} hw0504.c -o hw0504 -lcurl

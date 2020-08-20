@@ -1,0 +1,10 @@
+linked_list_v01.c(12) addNode: NULL pointer!
+10 -> 37 -> 6 -> 49 -> 87 -> 13 -> 92 -> 76 -> 
+52 -> 97 -> NULL
+List size = 10
+List size = 9
+10 -> 37 -> 6 -> 49 -> 87 -> 13 -> 76 -> 52 -> 
+97 -> NULL
+List size = 9
+10 -> 37 -> 6 -> 49 -> 87 -> 13 -> 76 -> 52 -> 
+97 -> NULL
