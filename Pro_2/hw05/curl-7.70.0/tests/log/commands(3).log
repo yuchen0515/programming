@@ -1,1 +1,0 @@
-../src/curl --output log/curl3007.out  --include --trace-ascii log/trace3007 --trace-time smtp://127.0.0.1:39819/3007 --mail-rcpt-allowfails --mail-rcpt invalid.one --mail-from sender@example.com -T - <log/stdin-for-3007 >log/stdout3007 2>log/stderr3007

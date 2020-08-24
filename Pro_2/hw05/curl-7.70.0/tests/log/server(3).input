@@ -1,4 +1,0 @@
-EHLO 3007
-MAIL FROM:<sender@example.com>
-RCPT TO:<invalid.one>
-QUIT
